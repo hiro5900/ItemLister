@@ -19,5 +19,5 @@ for (let i = 0; i < items.length; i++){
 document.getElementsByClassName('title')[0].style.fontWeight = 'bold'
 document.getElementsByClassName('title')[0].style.color = 'green'
 
-let addItem = document.getElementsByClassName('item')
-console.log(addItem, typeof addItem)
+// document.getElementsByTagName('li')[4].style.backgroundColor = 'red'
+document.getElementsByClassName('list-group-item')[4].style.backgroundColor = 'red'
