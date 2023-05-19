@@ -12,5 +12,5 @@
 // items[1].style.fontWeight = 'bold'
 // items[1].style.backgroundColor = 'yellow'
 
-document.getElementsByClassName('title')[0].style.fontWeight = 'bold'
-document.getElementsByClassName('title')[0].style.color = 'green'
+// document.getElementsByClassName('title')[0].style.fontWeight = 'bold'
+// document.getElementsByClassName('title')[0].style.color = 'green'
